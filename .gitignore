@@ -1,0 +1,31 @@
+# Environment variables - NEVER commit these!
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# CrewAI generated files
+new-blog-post.md
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
