@@ -1,4 +1,4 @@
-# YouTube Blog Writer AI Crew
+# YouTube Blog Writer Agent
 
 An AI-powered blog writing system that researches YouTube videos and creates comprehensive blog posts using CrewAI.
 
@@ -20,8 +20,8 @@ An AI-powered blog writing system that researches YouTube videos and creates com
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
-cd crew-ai
+git clone https://github.com/vsu1833/youtube-blog-writer-agent.git
+cd youtube-blog-writer-agent
 ```
 
 2. Create a virtual environment:
